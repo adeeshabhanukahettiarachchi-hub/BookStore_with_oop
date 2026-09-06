@@ -480,7 +480,7 @@ BookStore_OOP/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/adeeshabhanukahettiarachchi-hub/BookStore_with_oop.git
 ```
 
 ## 2. Open the Project
